@@ -9,7 +9,7 @@ I would also like to thank Mr. Mayank Arora &  Elite Techno Team
 who gave this excellent opportunity.
 
 # My Acceptance letter:
-<image src="3.jfif">
+<image src="./pics/3.jfif">
 
 # My Certificate of Acheivement:
-<image src="1.jfif">
+<image src="./pics/1.jfif">
