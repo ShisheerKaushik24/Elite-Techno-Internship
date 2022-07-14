@@ -1,5 +1,5 @@
 # Elite-Techno-Internship
-I am glad to have been given chance to participate in Skill India Internship Program on Python for ML/Al Internship at Elite Techno Groups.
+I am glad to have been given chance to participate in Skill India Internship Program on Python for ML/Al Internship at **Elite Techno Groups**.
 
 Within One month, I had a chance to learn a lot about Data Science. It was a very effecctive learning experience. Throughout the Course I have done some Industry Oriented project like as Inventory Management and Summer Olympics. It has enhanced my skills and knowledge in this perticular field.
 
